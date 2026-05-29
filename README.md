@@ -31,7 +31,7 @@ How to Run
 2. Import "clinic_project.sql" into phpMyAdmin.
 3. Place project folder inside "htdocs".
 4. Open:
-   "http://localhost/clinic_project"
+   "http://localhost/clinic_project2"
 
 Login Information
 
